@@ -1,2 +1,2 @@
 # Typeable Dates
-Date library where you can type date in words or expressions and it gets converted to valid date, library is written in C#.
+A .NET Core C# library, where you can type date in words or apply basic expressions to date and it gets converted to valid a date.
