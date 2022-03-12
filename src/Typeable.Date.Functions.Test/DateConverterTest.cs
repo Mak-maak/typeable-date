@@ -2,9 +2,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using TCube.Report.QueryBuilder.ExpressionToSql.SqlGenerator;
 
-namespace TCube.Report.QueryBuilder.ExpressionToSql.Test
+namespace Typeable.Date.Functions.Test
 {
     [TestClass]
     public class DateConverterTest

@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace TCube.Report.QueryBuilder.ExpressionToSql.SqlGenerator
+namespace Typeable.Date.Functions
 {
     public static class DateConverter
     {
